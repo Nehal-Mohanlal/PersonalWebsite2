@@ -1,0 +1,110 @@
+body {
+  background-color: #c886e5;
+  margin: 0;
+  text-align: center;
+  font-family: "Baloo Bhaijaan 2", serif;
+}
+
+h1 {
+  font-size: 5.626rem;
+  margin-top: 0%;
+  font-family: "Luxurious Script", sans-serif;
+  color: #f7f7f7;
+  margin-bottom: 0;
+  line-height: 2;
+}
+
+.d {
+  height: 200px;
+  width: 200px;
+}
+.bcloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+#title {
+  background-color: #caadde;
+  position: relative;
+  padding-top: 100px;
+}
+.topcloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+h2 {
+  margin-top: 0;
+  font-size: 2.5rem;
+  color: #f7f7f7;
+  font-weight: normal;
+}
+h3 {
+  margin-top: 0;
+  font-size: 2.5rem;
+  color: #f7f7f7;
+  font-weight: normal;
+}
+.btn {
+  color: #f7f7f7;
+}
+.images {
+  width: 25%;
+  height: auto;
+  float: left;
+  margin-right: 30px;
+}
+.images2 {
+  width: 25%;
+  height: auto;
+  float: right;
+  margin-right: 30px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+}
+.skill-head {
+  text-align: left;
+}
+.skill-desc {
+  text-align: left;
+  line-height: 2;
+}
+.sk {
+  text-align: right;
+}
+.pk {
+  text-align: right;
+  line-height: 2;
+}
+
+.profile {
+  border-radius: 20%;
+}
+p {
+  color: white;
+}
+
+footer {
+  background-color: #c092e0;
+  margin-top: 20px;
+  padding-top: 20px;
+  padding-bottom: 0px;
+  position: relative;
+  margin-bottom: 0px;
+}
+.social {
+  padding: 10px;
+}
+.contactMe {
+  border-radius: 8px;
+
+  background-color: #caadde;
+  font-size: 34px;
+}
+.contactMe:hover {
+  background-color: darkmagenta;
+  color: white;
+}
